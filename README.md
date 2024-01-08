@@ -26,9 +26,10 @@ https://ctoilet.000webhostapp.com/login.php
 <img width="515" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/a1c9ef9f-f7ff-4933-9d2b-c56df7717b88">
 
 <img width="339" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/74f0f368-df2d-4c77-a8a4-ac1074067b04"> 
-![image](https://github.com/Agussetiaa/project_UASweb/assets/117130461/d7988879-dbea-4f6d-b02c-e8804587eff7)
-![image](https://github.com/Agussetiaa/project_UASweb/assets/117130461/75222591-4803-4bf1-940d-c081a52db728)
-![image](https://github.com/Agussetiaa/project_UASweb/assets/117130461/1dbc5ebf-8a86-49d3-abff-61f2632a1efd)
+![image](https://github.com/Agussetiaa/project_UASweb/assets/117130461/7e139627-7af9-4104-9ca3-abc5862f5f88)
+![image](https://github.com/Agussetiaa/project_UASweb/assets/117130461/df0927d8-e8e3-4aeb-a15b-5a210b761787)
+
+
 
 
 
