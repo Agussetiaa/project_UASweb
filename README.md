@@ -39,11 +39,11 @@ https://ctoilet.000webhostapp.com/login.php
 
 <img width="960" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/f33c7ebe-74e0-48eb-a494-1f2faed33850">
 
-- Tampilan
+- Tampilan Ubah Data Toilet 
 
 <img width="515" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/a1c9ef9f-f7ff-4933-9d2b-c56df7717b88">
 
-- Tampilan
+- Tampilan Tambah Data Toilet
 
 <img width="339" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/74f0f368-df2d-4c77-a8a4-ac1074067b04">
 
