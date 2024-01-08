@@ -1,6 +1,5 @@
 # Kelompok 10
 
-## No |  NIM  |  Nama   |  Kelas    |
 ## 1. 312210193 | Agus Setiawan | TI.22.A2  
 ## 2. 312210083 | Rian Fauza Dinata | TI.22.A2
 ## 3. 312210204 | Rony Ariyanto | TI.22.A2
