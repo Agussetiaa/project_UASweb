@@ -3,16 +3,16 @@ Anggota Kelompok
 | ------------- | ------------- | ------------- |
 | 312210193 | Agus Setiawan | TI.22.A2  |
 | 312210083 | Rian Fauza Dinata | TI.22.A2  |
-| 312210 | Rony Ariyanto | TI.22.A2  |
+| 312210204 | Rony Ariyanto | TI.22.A2  |
 
 # Link Website
 | Link WEB |
 | ---------- |
-| `https://ctoilet.000webhostapp.com/home.php/` |
+| `https://ctoilet.000webhostapp.com/login.php/` |
 
 
 ## Tampilan web
-- Tampilan warga
+- Tampilan 
   
 ![image](https://github.com/DimasF3009/ProjectUAS/assets/115687740/ce691029-500f-4b4d-9ceb-65a3e4afe2f3)
 - Tampilan data iuaran
