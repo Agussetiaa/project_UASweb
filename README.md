@@ -35,7 +35,7 @@ https://ctoilet.000webhostapp.com/login.php
 
 <img width="960" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/29d00721-05b9-4338-a8d2-ec78f7c1fcd7">
 
-- Tampilan
+- Tampilan Data Toilet
 
 <img width="960" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/f33c7ebe-74e0-48eb-a494-1f2faed33850">
 
