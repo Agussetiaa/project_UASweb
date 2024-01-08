@@ -8,7 +8,7 @@ Anggota Kelompok
 # Link Website
 | Link WEB |
 | ---------- |
-| `https://ctoilet.000webhostapp.com/home.php /` |
+| `https://ctoilet.000webhostapp.com/home.php/` |
 
 
 ## Tampilan web
