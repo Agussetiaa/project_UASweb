@@ -27,7 +27,7 @@ https://ctoilet.000webhostapp.com/login.php
 
 <img width="959" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/860bc009-15bd-478f-9dbd-9a099e61da7c">
 
-- Tampilan Data Ceklist
+- Tampilan Ubah Data Ceklist
 
 <img width="960" alt="image" src="https://github.com/Agussetiaa/project_UASweb/assets/115542822/e5f51e2e-5ceb-4a0d-b5a7-09ba51b36d3b">
 
