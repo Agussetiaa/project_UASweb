@@ -10,7 +10,7 @@
 | ---------- |
 https://ctoilet.000webhostapp.com/login.php
 | Link Youtube |
-https://youtu.be/2N0qqvqIhsg
+https://www.youtube.com/watch?v=jIN8AuYqjvo
 
 
 ## Tampilan Web
